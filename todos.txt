@@ -1,3 +1,2 @@
-Feed chickens
-Get a new job
-Meditate
+Identify most in demand skills for Python Developers
+Identify projects to showcase those skills in a Portfolio
