@@ -1,3 +1,4 @@
 #Ignore Vitual env. and idea folders
 .venv/
 .idea/
+.bonus/
